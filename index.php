@@ -7,5 +7,4 @@ echo " New News in the World " ;
 echo " New News in the World 1 " ;
 
 //Added by hathmak90 - 2
-
 echo " New News in the World 2 " ;
